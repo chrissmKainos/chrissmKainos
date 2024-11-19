@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm [Chris Smith](https://www.linkedin.com/in/chris-smith-a7919821/) 👋 
+I’m a Senior Software Engineer specialising in .NET projects. Based in Scotland, I work remotely from home.
 
-<!--
-**chrissmKainos/chrissmKainos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-smith-a7919821/)
 
-Here are some ideas to get you started:
+## About Me
+- ✍️ My Blog Site: [csmithblog.medium.com](https://csmithblog.medium.com/)
+- 🔗 Contact: [LinkedIn](https://www.linkedin.com/in/chris-smith-a7919821/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Work
+- 🚀 Azure Service Bus publish/subscribe pattern: [Repo](https://github.com/chrissmKainos/azure-service-bus-demo)
+- 🚀 Sending messages from Slack from a C# app: [Repo](https://github.com/chrissmKainos/Slack-Integration)
+
+## GitHub Stats
+![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chrissmKainos&show_icons=true&theme=radical)
