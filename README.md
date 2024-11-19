@@ -9,7 +9,7 @@ I’m a Senior Software Engineer specialising in .NET projects. Based in Scotlan
 
 ## My Work
 - 🚀 Azure Service Bus publish/subscribe pattern: [Repo](https://github.com/chrissmKainos/azure-service-bus-demo)
-- 🚀 Sending messages from Slack from a C# app: [Repo](https://github.com/chrissmKainos/Slack-Integration)
+- 🚀 Sending messages to Slack from a C# app: [Repo](https://github.com/chrissmKainos/Slack-Integration)
 
 ## GitHub Stats
 ![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chrissmKainos&show_icons=true&theme=radical)
